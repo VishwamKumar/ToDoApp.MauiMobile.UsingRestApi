@@ -1,0 +1,9 @@
+﻿global using System.Text;
+global using System.Reflection;
+global using System.Text.Json;
+global using System.ComponentModel;
+global using Microsoft.Extensions.Logging;
+global using ToDoApp.MauiMobile.UsingRestApi.Pages;
+global using ToDoApp.MauiMobile.UsingRestApi.Models;
+global using ToDoApp.MauiMobile.UsingRestApi.DataServices;
+global using Microsoft.Extensions.Configuration;
